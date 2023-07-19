@@ -1,0 +1,4 @@
+String name ---> Use for the Name of Commodity
+int length ---> Use for the Commodity's length
+int width ---> Use for the Commodity's width
+int weight ---> Use for the Commodity's weight
